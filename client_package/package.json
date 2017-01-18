@@ -1,0 +1,12 @@
+{
+  "name": "jc3mp-serverLogin",
+  "version": "1.0.0",
+  "description": "Features a new Server Login System.",
+  "authors": [
+      {
+        "name": "Jaocb 'theWebKeyGuy' Ward",
+        "email": "theWebKeyGuy@gmail.com",
+        "url": "http://thewardsweb.us/"
+      }
+  ]
+}
